@@ -10,7 +10,7 @@ body {
     background-color: #eee; /* Slightly darker background */
     color: #333;
     line-height: 1.6;
-    background-image: url('./dist/images/krustykrab.png');
+    background-image: url('../dist/images/krustykrab.png');
     background-size: cover;
 
     background-position: center center;
