@@ -21,7 +21,7 @@ const loadHome = () => {
     content.appendChild(homeText)
     
     const homeImage = document.createElement('img')
-    homeImage.setAttribute('src', '../dist/images/home.jpeg')
+    homeImage.setAttribute('src', 'dist/images/home.jpeg')
 
     content.appendChild(homeImage)
 
